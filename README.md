@@ -17,4 +17,8 @@ Uma API simples para gerenciar informações sobre baladas, incluindo nome, cida
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/api-balada.git
+https://github.com/Matheus2570/Baladas_SqLite.git
+cd api-balada
+npm install
+node app.js
+
