@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# SQLite database
+infra/database.db
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
